@@ -221,8 +221,8 @@ publications:
     Extensive research on this system is primarily due to its candidacy for ferroelectric memory as well as the intriguing coexistence of ferroelectricity and magnetism..
   papers:
   - title: Photocapacitive light sensor based on metal-YMnO3-insulator-semiconductor structures
-    link: "#"
-    authors: Om S. Choudhary  # Replace with your name or co-authors if applicable
+    link: "https://pubs.aip.org/aip/apl/article-abstract/108/5/052103/133595/Photocapacitive-light-sensor-based-on-metal-YMnO3?redirectedFrom=fulltext"
+    authors: O. S. Choudhary; A. Bogusz ; I. Skorupa; D. Bürger; A. Lawerenz; Y. Lei; H. Zeng; B. Abendroth; H. Stöcker; O. G. Schmidt; H. Schmidt  # Replace with your name or co-authors if applicable
     conference: APL 2016
 
   - title: YMnO3-based photocapacitive detectors in the visible light regime
@@ -236,7 +236,7 @@ publications:
     conference: Deutsche Physikalische Gesellschaft, DPG-2014, March 2014
 
   - title: YMnO3 – based MIS structure with a selective, capacitive photo-detecting properties
-    link: "#"
+    link: "https://orcid.org/0000-0001-7059-7066"
     authors: Om S. Choudhary  # Replace with your name or co-authors if applicable
     conference: Deutsche Physikalische Gesellschaft, DPG-2015
 
