@@ -4,13 +4,13 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Om Shandilya Choudhary
+  name: Om Choudhary
   tagline: Software Architect - Automotive
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: om.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: choudharyom@hotmail.com
@@ -18,9 +18,9 @@ sidebar:
   timezone: Europe/Berlin # Updated to match Germany timezone
   citizenship: German
   website: https://www.choudharyom.com # Include the full website URL, including "http://" or "https://".
-  linkedin: https://www.linkedin.com/in/choudharyom/ # Add your LinkedIn username if available
-  xing: # Add your Xing username if available
-  github: https://choudharyom.github.io/ # Add your GitHub username if available
+  linkedin: choudharyom # Add your LinkedIn username if available
+  xing: choudharyom # Add your Xing username if available
+  github: choudharyom # Add your GitHub username if available
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -59,10 +59,15 @@ career-profile:
   title: Professional Summary
   summary: |
     • Master's Degree in Electronics from TU-Chemnitz, Germany.
+    
     • 11+ years in software development for advanced automotive systems.
+    
     • Deep expertise in defining top-level software architectures optimized for automotive microcontrollers (e.g., Infineon platforms), with a focus on high-speed communication networks (Ethernet, TSN) and cybersecurity (ISO 26262, ASIL-D).
+    
     • Proven track record in driving hardware/software co-design and developing robust solutions for AUTOSAR and non-AUTOSAR environments, ensuring compliance with industry standards (CMMI/ASPICE, ISO 26262).
+    
     • Strategic innovator with extensive knowledge of real-time operating systems, communication stacks, and security protocols, adept at conducting feasibility studies, proof-of-concepts, and technical benchmarking to push technological boundaries.
+    
     • Exceptional communicator and collaborator, skilled at leading cross-functional teams, engaging with customers and partners, and fostering international cooperation to deliver automotive solutions.
 
 education:
@@ -88,11 +93,17 @@ experiences:
     company: Schaeffler Technologies AG & Co. KG, Regensburg, Germany
     details: |
       • Defined top-level software architectures for multicore microcontroller systems optimized for automotive applications (For 800V, HEV 48V BSG & 800V BMS Projects).
+      
       • Spearheaded the design and implementation of low-layer software stacks with a focus on high-speed automotive communication networks (e.g., Ethernet) and security features for ASIL-D compliance.
+      
       • Led hardware/software co-design initiatives, collaborating with cross-functional teams to align software solutions with Infineon and other microcontroller platforms (e.g., ARM, TriCore).
+      
       • Conducted feasibility studies and proof-of-concept development for innovative software-defined vehicle (SDV) architectures in AUTOSAR (v4.3x) and non-AUTOSAR environments.
+      
       • Drove technical benchmarking of communication protocols and security mechanisms, enhancing system performance and reliability.
+      
       • Acted as a technical expert in customer discussions, providing insights into real-time operating systems (RTOS) and automotive networking solutions.
+      
       • Optimized software resource allocation (e.g., memory distribution) and performed in-depth debugging to ensure robust, scalable architectures.
       
       Projects:
@@ -109,10 +120,15 @@ experiences:
     company: EDAG Engineering GmbH, Regensburg, Germany
     details: |
       • Led the development of software for an 800V BMS, integrating high-speed communication stacks (Ethernet) and security features for ASIL-C compliance.
+      
       • Coordinated interfaces between software units and developers as well as with customer's specialist departments.
+      
       • Derived software requirements and created software architectures in UML using IBM Rhapsody.
+      
       • Analyzed software components and architectures in terms of performance, stability and functionality.
+      
       • Collaborated with customers to refine software requirements and interfaces, ensuring seamless integration of real-time operating systems and security protocols.
+      
       • Provided benchmark for communication stacks, including Time-Sensitive Networking (TSN) readiness, and drove continuous improvement in software functionality.
       
       Project: 800V High voltage Li-Ion battery management systems - ASIL-C
@@ -126,12 +142,19 @@ experiences:
     company: ASK Industries GmbH, Niederwinkling, Germany
     details: |
       • Implemented functional specifications and audio features for digital audio amplifiers with different interfaces (CAN, MOST, Ethernet, A2B, PSI5, UART)
+      
       • Defined software architectures for AUTOSAR (v4.3x) and non-AUTOSAR systems in Enterprise Architect
+      
       • Integrated developed software modules with BSW (Basic Software), DEM (Diagnostic Event Manager), and DCM (Diagnostic Communication Manager)
+      
       • Implemented Secured UDS Diagnostics (Tester Authentication, Security Access, Access Right management, Encrypted/Signed diagnostic communication as per ISO 14229
+      
       • Integrated security solutions - Daimler SSA (Standard Security Architecture), Porsche E2E Security SFD
+      
       • Implemented Thrift.Me interfaces for UDS, SWDL and OTA for Daimler
+      
       • Led ODC developer's team of 7 from SYRMIA, Serbia
+      
       
       Project: Development for digital audio amplifier infotainment system in vehicle
       
@@ -144,11 +167,17 @@ experiences:
     company: Magna Electronics, Sailiauf, Germany
     details: |
       • Defined and coordinated project specific activities for HMI / automotive multi-camera units in ADAS based on functional requirements
+      
       • Built and updated vehicle components and systems for hardware in-the-loop (HIL test towers)
+      
       • Analyzed requirements and supported initial product development
+      
       • Conducted regular outwards and in-house meetings with Engineering, Design, Quality and PM team
+      
       • Optimized processes (APQP- and PPAP) and efficient test management through judicious use of test management tools
+      
       • Evaluated claims and analyzed large customer log files
+      
       • Led the ODC test team of 4 members from KPIT, India
       
       Project: Development of multi-camera control units used for Driver assistance system / Park assistance system in ADAS (automotive driving assistance systems)
@@ -204,3 +233,6 @@ skills:
 
   - name: Cybersecurity for Automotive (ISO 26262)
     level: 85%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
