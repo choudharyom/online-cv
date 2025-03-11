@@ -8,7 +8,7 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Om Choudhary
+  name: Om Shandilya Choudhary
   tagline: Software Architect - Automotive
   avatar: om.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -212,6 +212,40 @@ certifications:
     details: |
       Foundation level certification in software testing.
 
+publications:
+  title: Publications
+  intro: |
+    photocapacitance measurements to study volatile functionality in YMnO3 coated MIS Diodes
+    YMnO3 thin films are proposed as a new candidate for non-volatile ferroelectric memory devices. 
+    Hexagonal YMnO3 shows a unique improper ferroelectricity induced by structural trimerization. 
+    Extensive research on this system is primarily due to its candidacy for ferroelectric memory as well as the intriguing coexistence of ferroelectricity and magnetism..
+  papers:
+  - title: Photocapacitive light sensor based on metal-YMnO3-insulator-semiconductor structures
+    link: "#"
+    authors: Om S. Choudhary  # Replace with your name or co-authors if applicable
+    conference: APL 2016
+
+  - title: YMnO3-based photocapacitive detectors in the visible light regime
+    link: "#"
+    authors: Om S. Choudhary  # Replace with your name or co-authors if applicable
+    conference: Leibniz Institut für Polymerforschung Dresden - 8th Workshop Ellipsometry 2014, March 2014
+
+  - title: Photocapacitive change in YMnO3 based MIFS in the visible light regime
+    link: "#"
+    authors: Om S. Choudhary  # Replace with your name or co-authors if applicable
+    conference: Deutsche Physikalische Gesellschaft, DPG-2014, March 2014
+
+  - title: YMnO3 – based MIS structure with a selective, capacitive photo-detecting properties
+    link: "#"
+    authors: Om S. Choudhary  # Replace with your name or co-authors if applicable
+    conference: Deutsche Physikalische Gesellschaft, DPG-2015
+
+  talks:
+  - title: Charge trapping in YMnO3-coated MIS diodes
+    link: "#"
+    authors: Om S. Choudhary  # Replace with your name if applicable
+    conference: NamLab TU-Dresden 2014
+    
 skills:
   title: Skills & Proficiency
 
